@@ -1,0 +1,8 @@
+path: G:\software\python1\PythonProject6\RBC_Detection\datasets\BCCD_YOLO
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: WBC
+  1: RBC
+  2: Platelets
