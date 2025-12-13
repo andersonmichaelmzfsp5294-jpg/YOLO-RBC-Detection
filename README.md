@@ -1,0 +1,15 @@
+# 红细胞目标检测 (RBC Detection)
+
+这是一个基于 YOLO11 的红细胞检测项目。
+
+## 环境要求
+- Python 3.x
+- ultralytics
+
+## 使用方法
+1. **准备数据**: 运行 `prepare_data.py` 下载并转换 BCCD 数据集。
+2. **训练模型**: 运行 `train_yolo.py` 开始训练。
+3. **预测结果**: 运行 `predict_result.py` 生成检测结果和坐标文件。
+
+## 结果
+在测试集上达到了 mAP@0.5: 0.92+ 的效果。
