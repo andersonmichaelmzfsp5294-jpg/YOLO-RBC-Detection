@@ -16,9 +16,8 @@
 计数。
 
  ##  
-本项目已采用 Streamlit 框架完成云端部署。
-访问链接：https://yolo-rbc-detection-xxxx.streamlit.app
-系统状态：已上线 (Online)
-功能说明：支持上传 JPG/PNG 图片，实时返回检测框及细胞计数。
-运行截图：
-(在这里贴一张你刚才截的全屏大图，证明你真的做出来了)
+-本项目已采用 Streamlit 框架完成云端部署
+-访问链接：https://yolo-rbc-detection-igwdcfzaklwqdakrucqkti.streamlit.app
+-系统状态：已上线 (Online)
+-功能说明：支持上传 JPG/PNG 图片，实时返回检测框及细胞计数。
+
